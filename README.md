@@ -14,9 +14,9 @@
 
 
 ## Installation
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Python 3 or higher is required to run this code**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Python 3.7 or higher is required to run this code**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R and RStudio is required to run R code**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **R 3.6.1 or higher and RStudio is required to run R code**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [R can be found here](https://www.r-project.org/)
 
