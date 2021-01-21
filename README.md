@@ -55,7 +55,7 @@
 
 ## Authors
 * **Lee Klarich** - *Question G* - [Link to GitHub](https://github.com/leeklarich)
-* **Zach Benator** - *Question B* - [Link to GitHub](https://github.com/benator)
+* **Jordan Benator** - *Question B* - [Link to GitHub](https://github.com/benator)
 * **Justin Neal** - *Question A and C* - [Link to GitHub](https://github.com/JustinJNEAL)
 * **Brian Cabigon** - *Question D and F* - [Link to GitHub](https://github.com/bcabio)
 * **Tim Lewis** - *Question E* - [Link to GitHub](https://github.com/timleelewis)    
